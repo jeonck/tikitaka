@@ -64,4 +64,52 @@ Every everyday English question has three ways back. See the trigger phrase, say
     link="docs/wrap-up"
     icon="hand"
   >}}
+  {{< hextra/feature-card
+    title="Home & Neighborhood"
+    subtitle="Do you live around here? The safest personal topic there is."
+    link="docs/home"
+    icon="home"
+  >}}
+  {{< hextra/feature-card
+    title="Family & People"
+    subtitle="Any siblings? How's the family? Answer without handing over the whole map."
+    link="docs/family"
+    icon="user-group"
+  >}}
+  {{< hextra/feature-card
+    title="Health & Energy"
+    subtitle="You look tired — everything okay? Care disguised as a question."
+    link="docs/health"
+    icon="heart"
+  >}}
+  {{< hextra/feature-card
+    title="Screens & Sound"
+    subtitle="Seen anything good lately? Recommend without summarizing the plot."
+    link="docs/screens"
+    icon="film"
+  >}}
+  {{< hextra/feature-card
+    title="Tech & Online"
+    subtitle="Do you use AI for that? Sorry, you cut out. Confessions beat specifications."
+    link="docs/tech"
+    icon="device-mobile"
+  >}}
+  {{< hextra/feature-card
+    title="Money & Shopping"
+    subtitle="Was it expensive? Should we split it? Answer without naming a figure."
+    link="docs/money"
+    icon="shopping-bag"
+  >}}
+  {{< hextra/feature-card
+    title="Learning & Language"
+    subtitle="Your English is really good! The questions you get for being a learner."
+    link="docs/learning"
+    icon="translate"
+  >}}
+  {{< hextra/feature-card
+    title="Awkward Moments"
+    subtitle="Forgotten names, saying no, disagreeing. The sentences nobody teaches you."
+    link="docs/awkward"
+    icon="exclamation"
+  >}}
 {{< /hextra/feature-grid >}}

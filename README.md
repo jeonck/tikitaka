@@ -32,10 +32,16 @@ open the card and compare.
 
 ## Content
 
-8 situations × 5 questions × 3 routes = 120 answers.
+16 situations × 5 questions × 3 routes = 240 answers.
 
-Small Talk · Work · Weekend & Free Time · Food · Travel & Places · Feelings & Opinions ·
-Making Plans · Wrapping Up
+**Everyday exchanges** — Small Talk · Weekend & Free Time · Food · Making Plans · Wrapping Up
+
+**Your life** — Work · Home & Neighborhood · Family & People · Health & Energy · Travel & Places
+
+**Things you have opinions about** — Feelings & Opinions · Screens & Sound · Tech & Online ·
+Money & Shopping
+
+**The harder ones** — Learning & Language · Awkward Moments
 
 ## Local development
 
