@@ -1,4 +1,4 @@
-baseURL = "https://jeonck.github.io/tikitaka/"
+baseURL = "https://tikitaka.metacog.co.kr/"
 title = "TikiTaka"
 theme = "hextra"
 defaultContentLanguage = "en"

@@ -3,7 +3,7 @@
 An English speaking-practice site built with [Hugo](https://gohugo.io/) and the
 [Hextra](https://github.com/imfing/hextra) theme, deployed to GitHub Pages.
 
-**Live site:** https://jeonck.github.io/tikitaka/
+**Live site:** https://tikitaka.metacog.co.kr/
 
 ## The idea
 
