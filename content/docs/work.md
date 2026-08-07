@@ -36,3 +36,33 @@ Say what you do in terms of the problem, not the title. Problems are something a
 {{< tkline tone="Add" hint="It started with —" say="It started with a broken laptop, honestly. I spent a whole weekend fixing it myself instead of paying someone, and I liked the weekend more than I expected." back="Was there a moment like that for you?" why="A single concrete origin scene is far stickier than a summary of your CV. People remember the laptop." >}}
 {{< tkline tone="Flip" hint="The honest answer —" say="The honest answer is that I was bad at the thing I studied and good at the thing I did for fun, and eventually I stopped fighting it." back="Did you end up doing what you studied?" why="Self-aware honesty invites the same, and very few people ended up doing exactly what they studied." >}}
 {{< /tk >}}
+
+{{< tk q="Are you in the office today?" ctx="A message on a weekday morning." >}}
+{{< tkline tone="Return" hint="Working from home —" say="Home today, in tomorrow." back="Are you around this week?" why="Two words each way. Nobody needs an explanation for where you are working, and asking about their week is more useful than justifying yours." >}}
+{{< tkline tone="Add" hint="In tomorrow —" say="Not today, but I am in tomorrow and Thursday if you want to grab twenty minutes." back="Does either of those work?" why="Turning a location question into a meeting is the efficient move. Grab twenty minutes is the standard phrase for a short informal chat." >}}
+{{< tkline tone="Flip" hint="Depends who is asking —" say="Depends who is asking. If it is for a coffee then absolutely, and if it is for the Friday meeting then I am extremely unavailable." back="Which one is it?" why="A joke that still answers. It signals you are happy to be interrupted for the right reason." >}}
+{{< /tk >}}
+
+{{< tk q="How long have you been there?" ctx="Someone placing you in your career." >}}
+{{< tkline tone="Return" hint="Three years —" say="Three years in March. Longer than I expected, in a good way." back="How about you?" why="A date plus a small evaluation. In a good way stops the number sounding like a complaint." >}}
+{{< tkline tone="Add" hint="Long enough to have —" say="Long enough to have done three completely different jobs without ever changing my title, which I think is normal now." back="Has yours changed under you like that?" why="The gap between your title and your actual work is something almost everyone recognizes and enjoys complaining about." >}}
+{{< tkline tone="Flip" hint="Two managers and —" say="Two managers, one reorganization, and about four desks. I have stopped measuring it in years." back="How do you measure yours?" why="Measuring time in events rather than years is funnier and more informative. The follow-up is an unusual question people like." >}}
+{{< /tk >}}
+
+{{< tk q="Do you enjoy it?" ctx="A direct question about whether your job is any good." >}}
+{{< tkline tone="Return" hint="Most days —" say="Most days, genuinely. It has its moments." back="Do you?" why="Most days is the honest answer that avoids both cynicism and a sales pitch. Nobody expects every day." >}}
+{{< tkline tone="Add" hint="The work, yes —" say="The work, yes. The meetings about the work, less so. If I could keep the first half I would happily stay for years." back="Where does yours sit on that?" why="Splitting the job into parts is far more credible than a flat yes, and it gives them a frame to answer in." >}}
+{{< tkline tone="Flip" hint="Ask me on a Wednesday —" say="Ask me on a Wednesday and you will get a completely different answer than on a Monday." back="Which day are you at right now?" why="Making enjoyment a function of the week is relatable and funny, and the return question is oddly easy to answer." >}}
+{{< /tk >}}
+
+{{< tk q="What are you working on at the moment?" ctx="A colleague from another team, or someone at an industry event." >}}
+{{< tkline tone="Return" hint="One big thing —" say="One big thing, mostly. It should be done by the end of the month if nothing goes wrong." back="What about you?" why="If nothing goes wrong is the small hedge every experienced person adds. It sounds real without needing detail." >}}
+{{< tkline tone="Add" hint="Trying to fix —" say="Trying to fix something that has been quietly annoying everyone for two years. Nobody asked for it, which is why I think it will be the useful one." back="Have you got one of those going?" why="Describing a project by the annoyance it removes is understandable to anyone, in any field." >}}
+{{< tkline tone="Flip" hint="Officially or actually? —" say="Officially, a strategy document. Actually, answering emails about the strategy document." back="Is yours the same shape?" why="The gap between the official and the real job is the most reliable joke in working life. It almost always gets a story back." >}}
+{{< /tk >}}
+
+{{< tk q="Are you thinking of moving on?" ctx="A trusted colleague, quietly." >}}
+{{< tkline tone="Return" hint="Not actively —" say="Not actively. Keeping an eye out, like everyone." back="Are you?" why="Keeping an eye out is the standard low-commitment phrase. Like everyone normalizes it so nothing sounds disloyal." >}}
+{{< tkline tone="Add" hint="I have been wondering —" say="I have been wondering what else is out there, more than actually looking. Nothing is wrong here, I just do not want to stop asking the question." back="Do you ever check?" why="Separating curiosity from dissatisfaction is a mature framing that keeps you safe if the conversation travels." >}}
+{{< tkline tone="Flip" hint="Depends entirely on —" say="Depends entirely on how the next reorganization goes. Ask me again in the spring and I may have a much shorter answer." back="What is your read on it?" why="Deferring to an external event avoids committing to anything, and asking for their read invites the real conversation." >}}
+{{< /tk >}}

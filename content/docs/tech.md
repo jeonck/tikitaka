@@ -35,6 +35,36 @@ Everyone has a relationship with their devices and nobody thinks theirs is ideal
 {{< tkline tone="Flip" hint="I have given up —" say="I have completely given up and I recommend it. Whatever matters will come and find me eventually." back="Are you still trying, or have you made peace with it?" why="Made peace with it is a lovely phrase for accepting something you cannot control, and it invites a genuine opinion." >}}
 {{< /tk >}}
 
+{{< tk q="Is your phone always like that?" ctx="It has buzzed four times in one conversation." >}}
+{{< tkline tone="Return" hint="Sorry, one second —" say="Sorry, ignore it. It is nothing important." back="Where were we?" why="Apologizing once and putting the phone down is enough. Where were we is the phrase that repairs an interrupted conversation." >}}
+{{< tkline tone="Add" hint="Two group chats —" say="Two group chats that have both decided today is the day. I have been meaning to mute them for about a year and I never quite do it." back="How ruthless are you with notifications?" why="Naming the specific source stops it feeling like you are being pulled away by something more important than them." >}}
+{{< tkline tone="Flip" hint="I have lost control —" say="I have completely lost control of it and I am no longer sure who is in charge, me or the device." back="Have you got yours under control?" why="Admitting defeat to your own phone is relatable and funny, and it invites them to share their system or their failure." >}}
+{{< /tk >}}
+
+{{< tk q="You're good with computers — could you have a look at this?" ctx="A friend or relative with a problem you did not cause." >}}
+{{< tkline tone="Return" hint="I can try —" say="I can have a look, but I make no promises." back="What is it doing?" why="No promises manages expectations before you start. What is it doing is the right first question for any fault." >}}
+{{< tkline tone="Add" hint="Happy to —" say="Happy to look. Fair warning though, my method is mostly turning things off and searching for the error message, same as everyone." back="When did it last work properly?" why="Demystifying your own expertise is generous and true. When did it last work is the single most useful diagnostic question." >}}
+{{< tkline tone="Flip" hint="I am going to be honest —" say="I am about to do the thing where I look confident and then quietly search for the answer on my phone." back="Shall we do it together?" why="Naming the bluff is charming, and doing it together avoids becoming their permanent support desk." >}}
+{{< /tk >}}
+
+{{< tk q="Have you got a charger I could borrow?" ctx="A cafe, an office, someone at four percent." >}}
+{{< tkline tone="Return" hint="Yeah, here —" say="Yeah, here you go. Keep it as long as you need." back="" why="Handing it over without conditions is the whole answer. Adding anything would make a small kindness into a transaction." >}}
+{{< tkline tone="Add" hint="I have got one —" say="I have got one, though it is the slow kind, so do not expect miracles in ten minutes." back="How desperate are we talking?" why="Setting expectations about the charger is practical, and the question lets them tell you how urgent it really is." >}}
+{{< tkline tone="Flip" hint="On one condition —" say="On one condition, which is that you actually give it back. I have lost three this way and I am starting to take it personally." back="Do you promise?" why="A mock condition is the friendly way to mention a real annoyance, and it makes the return much more likely." >}}
+{{< /tk >}}
+
+{{< tk q="Sorry — are you on mute?" ctx="A video call, everyone waiting." >}}
+{{< tkline tone="Return" hint="I was, sorry —" say="I was, sorry. Can you hear me now?" back="" why="Fix it, check it, move on. Any longer an apology and you have spent more time on the mute than the point." >}}
+{{< tkline tone="Add" hint="Classic —" say="I was, classic. What I was saying is that the numbers look fine, and I will send the summary after this." back="Does that answer it?" why="Repeating the content immediately is what a confident speaker does. Classic acknowledges the cliche without dwelling on it." >}}
+{{< tkline tone="Flip" hint="I have been talking —" say="I have been talking passionately to nobody for about forty seconds, which is exactly the amount of dignity I had left." back="Did any of it get through?" why="Self-mockery is the standard and expected response to this, and it lets the whole call laugh and move on." >}}
+{{< /tk >}}
+
+{{< tk q="Do you back anything up?" ctx="Someone who has just lost something, warning you." >}}
+{{< tkline tone="Return" hint="Some of it —" say="Some of it. Photos, yes. Everything else, probably not." back="Did you lose much?" why="An honest partial answer is more useful than a claim. Asking what they lost returns to why they raised it." >}}
+{{< tkline tone="Add" hint="I learned the hard way —" say="I learned the hard way. I lost about two years of writing once, and now it copies itself automatically and I never think about it again." back="Have you had one of those?" why="A costly lesson is the most persuasive kind of advice, and it invites the story they were clearly about to tell." >}}
+{{< tkline tone="Flip" hint="I live dangerously —" say="I live entirely on hope and a single laptop. I know exactly what you are going to say and you are completely right." back="Go on, tell me what to do." why="Preempting the lecture and then asking for it anyway is disarming, and it gets you the actual advice faster." >}}
+{{< /tk >}}
+
 {{< callout type="info" >}}
 Technology questions are a trap for over-detail. If your answer contains a model number, a version, or a spec, cut it — replace it with what the thing does *to your day*. That is the part anyone can answer back on.
 {{< /callout >}}

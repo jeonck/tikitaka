@@ -3,7 +3,7 @@ title: Situations
 weight: 1
 ---
 
-Sixteen everyday situations. Each one holds five questions you will actually hear, and each question has three ways to send the ball back.
+Sixteen everyday situations. Each one holds ten questions you will actually hear, and each question has three ways to send the ball back.
 
 The trigger phrase is always visible. The full answer is not — open the card only after you have said your own version out loud.
 

@@ -35,6 +35,36 @@ These questions are usually acts of care disguised as questions. Someone asking 
 {{< tkline tone="Flip" hint="You are the third —" say="You are the third person to say that, so I am starting to think there might be something in it." back="Do I really look that bad?" why="Counting the warnings is a light way to admit they are right. The closing question keeps it warm instead of defensive." >}}
 {{< /tk >}}
 
+{{< tk q="Are you looking after yourself?" ctx="Someone who knows you have been under pressure." >}}
+{{< tkline tone="Return" hint="Reasonably —" say="Reasonably. Eating properly, sleeping badly." back="Working on it." why="Two halves in four words is a very natural rhythm. Working on it accepts the concern without opening a discussion." >}}
+{{< tkline tone="Add" hint="Better than last month —" say="Better than last month. I have got one non-negotiable thing, which is a walk at lunchtime, and everything else falls apart around it." back="Have you got one of those?" why="A single kept habit is a more convincing answer than a list of intentions, and non-negotiable is the right word for it." >}}
+{{< tkline tone="Flip" hint="Define looking after —" say="Define looking after. I am hydrated and outdoors occasionally, which by my current standards is a triumph." back="Where is your bar set at the moment?" why="Lowering the bar out loud is honest and funny. Asking where theirs is invites solidarity rather than advice." >}}
+{{< /tk >}}
+
+{{< tk q="Do you want me to grab you anything?" ctx="You are ill at home and someone is offering to help." >}}
+{{< tkline tone="Return" hint="I am okay —" say="I am okay, honestly. But thank you, that is kind." back="" why="Declining help still needs the thank you. Without it a refusal can read as brushing someone off." >}}
+{{< tkline tone="Add" hint="If you are passing —" say="If you are passing anyway, something to drink would be great. Please do not make a special trip, I mean that." back="Are you going that way regardless?" why="If you are passing is the standard way to accept help without imposing. Repeating that you mean it makes it believable." >}}
+{{< tkline tone="Flip" hint="Dangerous offer —" say="That is a dangerous offer to make to someone who has not left the flat in two days. I could give you a list." back="How much are you actually offering here?" why="Naming your own neediness playfully lets them decide the scale of the favor without any awkwardness." >}}
+{{< /tk >}}
+
+{{< tk q="Is that your third coffee?" ctx="A colleague, half teasing." >}}
+{{< tkline tone="Return" hint="Fourth —" say="Fourth. I have stopped counting out loud." back="Do not judge me." why="Correcting them upward is funnier than defending yourself. Do not judge me is a light, standard close." >}}
+{{< tkline tone="Add" hint="It is not what it looks like —" say="It is not what it looks like. Two of them went cold before I got to them, so really I have consumed about one and a half." back="Does that count in your system?" why="A technically-true defense is a very natural joke shape. It invites them to rule on your logic." >}}
+{{< tkline tone="Flip" hint="I have a system —" say="I have a system. It is a bad system, it does not work, and I intend to continue with it indefinitely." back="What is yours, out of interest?" why="Committing to a habit you have already admitted is bad is charming rather than defensive." >}}
+{{< /tk >}}
+
+{{< tk q="Are you allergic to anything?" ctx="Before a meal, a treatment, or a shared plan." >}}
+{{< tkline tone="Return" hint="Nothing at all —" say="Nothing at all, luckily." back="Are you?" why="Luckily acknowledges that this is a real problem for other people. Turning it back is the practical thing to do." >}}
+{{< tkline tone="Add" hint="One thing —" say="One thing, and it is manageable rather than serious. Nuts, so I check labels, but I am not going to ruin anyone's evening about it." back="Do you need to think about that at all?" why="Stating the severity alongside the allergy is what a host actually needs to know. It prevents both over- and under-reaction." >}}
+{{< tkline tone="Flip" hint="Only to early mornings —" say="Nothing medical. I do have a strong reaction to early mornings, but I understand that is not what you are asking." back="Are you the one who has to read every label?" why="A joke that answers the question first is safe. Asking about their experience shows you take the real version seriously." >}}
+{{< /tk >}}
+
+{{< tk q="You should get that looked at." ctx="Someone pushing you, gently, toward a doctor." >}}
+{{< tkline tone="Return" hint="You are probably right —" say="You are probably right. I will book something." back="" why="Agreeing ends a conversation neither of you enjoys. A concrete verb — book — makes it sound like it will happen." >}}
+{{< tkline tone="Add" hint="I keep meaning to —" say="I keep meaning to and then it improves slightly and I forget about it entirely. Which is exactly how these things go on for a year." back="Is that just me, or is that everyone?" why="Describing the avoidance loop accurately is disarming, and the question invites them to confess the same thing." >}}
+{{< tkline tone="Flip" hint="You are the second person —" say="You are the second person to say that this week, so I am now officially outnumbered." back="Fine. Will you check I have actually done it?" why="Asking them to hold you to it turns the nagging into help, which is usually what they were offering anyway." >}}
+{{< /tk >}}
+
 {{< callout type="warning" >}}
 Two things to leave alone here. Do not give a full symptom report unless you are asked twice — in English, one round of detail is care, three is an imposition. And do not use **Flip** on someone who is genuinely worried about you; a joke can read as brushing them off.
 {{< /callout >}}

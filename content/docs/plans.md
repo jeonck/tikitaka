@@ -37,6 +37,36 @@ If you want the plan to happen, your answer has to add something concrete — a 
 {{< tkline tone="Flip" hint="Only if you let me —" say="Only if you let me get the coffees after. I refuse to be the person who never pays for anything." back="Deal?" why="A counter-offer instead of an argument, and deal is a light one-word close that ends the negotiation cleanly." >}}
 {{< /tk >}}
 
+{{< tk q="Are we still on for tomorrow?" ctx="A confirmation message the day before." >}}
+{{< tkline tone="Return" hint="Still on —" say="Still on. Seven at the same place?" back="See you there." why="Confirming the time and place in the same breath prevents the second message everyone forgets to send." >}}
+{{< tkline tone="Add" hint="Yes, and I have —" say="Yes, and I have booked it under my name so we do not end up standing outside again. Seven, but I can be flexible either side." back="Does that still work for you?" why="Reporting the thing you actually did is more reassuring than a yes. Either side quietly offers flexibility." >}}
+{{< tkline tone="Flip" hint="I have been looking forward —" say="I have been looking forward to it since Monday, so you are not getting out of it now." back="You are not trying to cancel, are you?" why="Playfully checking whether the confirmation is really a cancellation is very natural, and it makes it harder for them to bail." >}}
+{{< /tk >}}
+
+{{< tk q="Any chance we could push it back?" ctx="They need to move a time you had already agreed." >}}
+{{< tkline tone="Return" hint="No problem —" say="No problem at all. What suits you?" back="I am fairly open." why="Agreeing instantly and asking for their time removes all the awkwardness of the request. Fairly open is the useful hedge." >}}
+{{< tkline tone="Add" hint="Yes, but —" say="Yes, but only by about an hour on my side. Anything after eight and I turn into a pumpkin." back="Would half past six work instead?" why="Giving your real constraint plus a concrete alternative solves it in one message rather than four." >}}
+{{< tkline tone="Flip" hint="I was about to ask —" say="I was about to ask you the same thing, so this has worked out unusually well for both of us." back="How late do you want to go?" why="Discovering you both wanted to move it is a small relief. It also stops either of you feeling guilty." >}}
+{{< /tk >}}
+
+{{< tk q="Where shall we meet?" ctx="The plan exists, the place does not." >}}
+{{< tkline tone="Return" hint="Somewhere central —" say="Somewhere central works for me. You pick." back="I will come to you." why="Handing over the choice is efficient when you genuinely do not mind. I will come to you is a generous, simple close." >}}
+{{< tkline tone="Add" hint="Halfway —" say="There is a place roughly halfway between us that I have been meaning to try. Quiet enough to actually hear each other, which matters more to me than the food." back="Shall I send you the pin?" why="Naming your real criterion helps them agree faster. Send you the pin is how people actually share a location now." >}}
+{{< tkline tone="Flip" hint="I have one rule —" say="I have exactly one rule, which is nowhere that plays music loudly enough to make me shout. Beyond that I have no standards at all." back="Do you know anywhere like that?" why="A single strong preference stated humorously is easier to accommodate than a vague no preference." >}}
+{{< /tk >}}
+
+{{< tk q="Sorry, something's come up — can we do another time?" ctx="They are cancelling, and they feel bad about it." >}}
+{{< tkline tone="Return" hint="Of course —" say="Of course. These things happen." back="Let me know when you are free." why="These things happen is the fixed reassurance. Asking them to come back with a time keeps the plan alive without pressure." >}}
+{{< tkline tone="Add" hint="No problem at all —" say="No problem at all. I hope everything is okay, and there is no rush on rearranging — I am around most of next month." back="Shall we look at it once things settle?" why="Checking they are alright before rescheduling shows you heard the reason. Once things settle removes the deadline." >}}
+{{< tkline tone="Flip" hint="You have bought yourself —" say="You have bought yourself one free cancellation. The next one goes on your permanent record." back="When are you free?" why="A joke that makes clear you are not offended, and the immediate question stops the plan quietly dying." >}}
+{{< /tk >}}
+
+{{< tk q="Shall I just book it?" ctx="Someone offering to take the last step." >}}
+{{< tkline tone="Return" hint="Please do —" say="Please do. Anything you pick is fine by me." back="Send me what I owe you." why="Accepting help cleanly is a skill. Offering to pay your share immediately stops it becoming a favor." >}}
+{{< tkline tone="Add" hint="Yes, and —" say="Yes, and get whatever is easiest — I would rather have a table we can talk at than the perfect place. I will sort the drinks on the night." back="Does that split it fairly?" why="Giving your criterion and taking a job in return keeps the effort balanced without a negotiation." >}}
+{{< tkline tone="Flip" hint="You booked last time —" say="You booked last time and you chose brilliantly, so I am going to keep letting you do it until you notice." back="Am I getting away with this?" why="Praising their taste while admitting you are freeloading is warm rather than lazy, and it usually earns a laugh." >}}
+{{< /tk >}}
+
 {{< callout type="info" >}}
 The single highest-value habit on this page: **propose two specific options**. *Tuesday or Thursday?* moves a plan forward every time, while *let me know* almost always stalls.
 {{< /callout >}}

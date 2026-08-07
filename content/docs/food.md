@@ -36,3 +36,33 @@ Try to say *what kind* of good. Specific beats enthusiastic.
 {{< tkline tone="Add" hint="I have been training —" say="I have been training, genuinely. Two years ago I could not do it at all and now I am somewhere in the middle." back="Did you grow up eating spicy food?" why="Framing tolerance as something you built is more interesting than a fixed yes or no, and it invites their background." >}}
 {{< tkline tone="Flip" hint="I say yes —" say="I always say yes and then regret it about four bites in. Every time." back="Are you going to order something that ruins me?" why="Predicting your own bad decision is funny and warm, and it playfully hands them control of the order." >}}
 {{< /tk >}}
+
+{{< tk q="Shall we get a few things and share?" ctx="Ordering with someone at a restaurant." >}}
+{{< tkline tone="Return" hint="Good idea —" say="Good idea. I am happy with whatever you fancy." back="You order and I will agree." why="Fancy is the natural British verb for wanting a particular food. Handing over the decision is a friendly move when you have no strong view." >}}
+{{< tkline tone="Add" hint="Yes, but let us —" say="Yes, but let us get one thing we know and one thing neither of us has heard of. That is usually where the good meal is." back="Which one looks like the risk?" why="Proposing a rule for ordering is a small game that makes the meal more fun. It also quietly gives you a say." >}}
+{{< tkline tone="Flip" hint="I should warn you —" say="I should warn you that I am a fast eater and I have no sense of fairness whatsoever." back="Are you going to be able to keep up?" why="Confessing a shared-plate crime before it happens is funny and takes the awkwardness out of the last piece." >}}
+{{< /tk >}}
+
+{{< tk q="Is there anything you don't eat?" ctx="Someone cooking for you, or booking a table." >}}
+{{< tkline tone="Return" hint="I eat everything —" say="I eat everything, do not worry about me." back="What were you thinking of?" why="Reassuring a host quickly is the kind thing to do. The question moves them back to the part they were excited about." >}}
+{{< tkline tone="Add" hint="One thing —" say="One thing, and it is a boring one. No shellfish, but everything else is fair game and I am genuinely easy." back="Does that ruin the plan?" why="Naming the restriction and immediately minimizing it stops a host worrying. Fair game is a natural phrase here." >}}
+{{< tkline tone="Flip" hint="Nothing I will admit to —" say="Nothing I will admit to in advance. If something arrives that I hate I will simply eat it and say nothing, like an adult." back="What is your one thing?" why="Comically overcommitting to politeness is warm, and it invites them to confess the food they actually cannot face." >}}
+{{< /tk >}}
+
+{{< tk q="Do you want to try some?" ctx="Someone offering a bite of their meal." >}}
+{{< tkline tone="Return" hint="Go on then —" say="Go on then, just a bit." back="" why="Go on then is the fixed English phrase for accepting something you were mildly resisting. It is warm and requires nothing further." >}}
+{{< tkline tone="Add" hint="I would love to —" say="I would love to. I nearly ordered that and then talked myself out of it, so now I get to find out if I was wrong." back="Is it as good as it looks?" why="Explaining that you almost ordered it is a compliment to their choice, and it sets up an easy question." >}}
+{{< tkline tone="Flip" hint="Dangerous —" say="This is dangerous, because if it is good I am going to be sad about my own plate for the rest of the meal." back="Is it worth the risk?" why="Anticipating food regret is a genuinely common feeling and almost always gets a laugh and a story." >}}
+{{< /tk >}}
+
+{{< tk q="Save room for dessert?" ctx="Halfway through a big meal." >}}
+{{< tkline tone="Return" hint="Always —" say="Always. There is a separate compartment for it." back="Are you having one?" why="The separate stomach for dessert is a joke that exists in most languages, so it travels well." >}}
+{{< tkline tone="Add" hint="I never manage it —" say="I never manage it. I order confidently at the start and then hit a wall about ten minutes before the menu comes back." back="Are you better at pacing than me?" why="Hit a wall is a useful idiom well beyond food. Admitting a pacing failure invites a comparison rather than a decision." >}}
+{{< tkline tone="Flip" hint="I have made a decision —" say="I made that decision before I arrived. Everything since has been strategy." back="Shall we look at it now, before it is too late?" why="Treating a meal as a planned operation is a good running joke, and it moves the group toward actually ordering." >}}
+{{< /tk >}}
+
+{{< tk q="Who's cooking?" ctx="A shared meal at home, with a friend or housemate." >}}
+{{< tkline tone="Return" hint="I can do it —" say="I can do it. Nothing ambitious, but it will be food." back="Do you mind pasta again?" why="Nothing ambitious sets expectations honestly. Naming the likely dish saves a round of negotiation." >}}
+{{< tkline tone="Add" hint="You cook, I clean —" say="You cook and I will do everything afterwards. I would rather do twenty minutes of washing up than make one decision about dinner." back="Deal?" why="Trading tasks by preference is how this actually gets resolved. Preferring cleaning to deciding is a very relatable position." >}}
+{{< tkline tone="Flip" hint="Whoever is hungrier —" say="Whoever gets hungry first, which historically has always been me, so I suppose I have answered my own question." back="How long can you hold out?" why="Working out the answer mid-sentence is a natural speech pattern, and the challenge at the end keeps it playful." >}}
+{{< /tk >}}

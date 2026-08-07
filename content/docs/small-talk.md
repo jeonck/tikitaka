@@ -35,6 +35,36 @@ These are the openers. Nobody asking them wants information — they want to kno
 {{< tkline tone="Flip" hint="Only if —" say="Only if you promise not to judge how much stuff I have got on this table." back="Long day for you too?" why="A light condition instead of a plain yes. Low risk, and it converts a seat into a conversation if they want one." >}}
 {{< /tk >}}
 
+{{< tk q="You're in early!" ctx="A colleague, surprised to see you before nine." >}}
+{{< tkline tone="Return" hint="Couldn't sleep —" say="Could not sleep, so I gave up and came in." back="You are not exactly late yourself." why="A reason plus a shrug. Turning the same observation back on them is the standard friendly volley." >}}
+{{< tkline tone="Add" hint="Trying something —" say="I am trying something. Apparently I get more done before anyone arrives, so I am testing that theory for a week." back="Are you any good at mornings?" why="Framing it as an experiment invites an opinion. Nobody argues with a theory being tested." >}}
+{{< tkline tone="Flip" hint="Do not get used to it —" say="Do not get used to it. This is a one-off and by Thursday I will be back to sliding in at the last minute." back="Are you always this early?" why="Undercutting your own achievement is very English. It removes any suggestion that you are showing off." >}}
+{{< /tk >}}
+
+{{< tk q="Busy in here today, isn't it?" ctx="A stranger next to you in a crowded cafe or shop." >}}
+{{< tkline tone="Return" hint="Always is on a Saturday —" say="Always is on a Saturday. I should know better by now." back="Did you get a table?" why="Agreeing plus admitting a small mistake is warm. The practical question is a natural thing to ask a stranger." >}}
+{{< tkline tone="Add" hint="Worse than usual —" say="Worse than usual, I think. There is something on at the hall down the road, so half of this queue is probably headed there." back="Are you going to it?" why="Offering a possible explanation gives them information and a reason to keep talking. It also sounds like a local." >}}
+{{< tkline tone="Flip" hint="I blame the weather —" say="I blame the weather. The moment it turns cold everybody in this city remembers that cafes exist." back="Are you a rain-drives-you-indoors person too?" why="A shared theory about other people is one of the fastest ways two strangers become briefly allied." >}}
+{{< /tk >}}
+
+{{< tk q="Do you know many people here?" ctx="A party or work event where you have just arrived." >}}
+{{< tkline tone="Return" hint="Barely anyone —" say="Barely anyone, honestly. I came with a friend who has already disappeared." back="Do you?" why="Admitting you know nobody is the fastest way to get adopted. Almost everyone at an event feels the same." >}}
+{{< tkline tone="Add" hint="Two people —" say="Two, and one of them is the host, so I am now working through the room in the least efficient way possible." back="How do you know everyone here?" why="A light description of what you are doing right now. Asking their connection to the host is the standard event question." >}}
+{{< tkline tone="Flip" hint="I know you —" say="I know you now, so that is one more than I did four minutes ago." back="Shall we make it two?" why="Turning the question into the beginning of a friendship is charming and low-risk. It works because it is literally true." >}}
+{{< /tk >}}
+
+{{< tk q="Been waiting long?" ctx="A bus stop, a queue, a waiting room." >}}
+{{< tkline tone="Return" hint="Ten minutes or so —" say="Ten minutes or so. Should not be much longer." back="" why="A time and a reassurance. Some exchanges with strangers are complete in one line and do not need extending." >}}
+{{< tkline tone="Add" hint="Long enough to check —" say="Long enough to check the board twice and start distrusting it. It said four minutes when I got here and it still says four minutes." back="Have you got somewhere to be?" why="The frozen countdown is universally recognized. Asking whether they are in a hurry is a natural piece of small kindness." >}}
+{{< tkline tone="Flip" hint="I have stopped counting —" say="I have stopped counting. At this point I live here and I am starting to make plans for the space." back="Is it always like this?" why="Mild exaggeration is safe with strangers because nobody has to take it seriously. It usually earns a complaint back." >}}
+{{< /tk >}}
+
+{{< tk q="Have we met before?" ctx="Someone half-recognizes you." >}}
+{{< tkline tone="Return" hint="I do not think so —" say="I do not think so, but I have one of those faces." back="I am afraid I would remember. What is your name?" why="One of those faces is the fixed phrase for looking familiar. Asking their name immediately rescues the moment either way." >}}
+{{< tkline tone="Add" hint="You might be right —" say="You might be right, actually. Were you at the thing in March? I have a feeling we were in the same room and never spoke." back="Does that sound possible?" why="Offering a specific occasion lets them confirm or deny without either of you having to pretend." >}}
+{{< tkline tone="Flip" hint="I hope so —" say="I hope so, otherwise one of us is about to be very embarrassed." back="Go on, where do you think it was?" why="Making the uncertainty shared removes the pressure from both sides, and turns a dead end into a small puzzle." >}}
+{{< /tk >}}
+
 {{< callout type="info" >}}
 Notice that the **Return** route on the last card has no pass back. That is deliberate. Small talk that has finished its job should be allowed to end — forcing a question there would read as pushy.
 {{< /callout >}}

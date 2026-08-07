@@ -35,6 +35,36 @@ These are the questions you get *because* you are a learner, and they arrive mor
 {{< tkline tone="Flip" hint="I have a system —" say="I have a system, and the system is watching too much television and calling it study." back="Does that count, do you think?" why="Self-deprecating about a method that genuinely works. Does that count is a light, open question with no wrong answer." >}}
 {{< /tk >}}
 
+{{< tk q="Am I speaking too fast?" ctx="Someone considerate, checking mid-conversation." >}}
+{{< tkline tone="Return" hint="You are fine —" say="You are fine, honestly. I will say if I lose you." back="Carry on." why="Promising to flag it yourself is the reassurance that actually works. It stops them slowing down artificially." >}}
+{{< tkline tone="Add" hint="A little, in places —" say="A little when you get excited about something, which I take as a good sign. Everything else has been perfectly clear." back="Do people ask you that a lot?" why="Locating the problem precisely is more useful than yes or no, and framing it as enthusiasm keeps it complimentary." >}}
+{{< tkline tone="Flip" hint="Only the interesting parts —" say="Only during the interesting parts, which feels like a design flaw in conversation generally." back="Where were you up to?" why="A joke that is also a request to repeat something. It gets you the missing information without any awkwardness." >}}
+{{< /tk >}}
+
+{{< tk q="Do you want me to correct you when you get something wrong?" ctx="A friend offering, slightly unsure whether it is welcome." >}}
+{{< tkline tone="Return" hint="Yes please —" say="Yes please. I would much rather know." back="Do not be gentle about it." why="A clear yes makes it easy for them. Do not be gentle gives explicit permission, which most people need before they will do it." >}}
+{{< tkline tone="Add" hint="The repeated ones —" say="The ones I repeat, yes. If I say something odd once it is probably a slip, but if you hear it three times it is something I actually believe is correct." back="Have you noticed any of those?" why="Distinguishing a slip from a fossilized error is genuinely how correction should work, and it makes their job easier." >}}
+{{< tkline tone="Flip" hint="Only if you are prepared —" say="Only if you are prepared to do it constantly, because once you start I am going to hold you to it forever." back="Still up for it?" why="Playfully raising the stakes checks whether the offer was real. It usually turns a polite gesture into an actual arrangement." >}}
+{{< /tk >}}
+
+{{< tk q="Which is harder, speaking or listening?" ctx="Another learner, or someone genuinely curious." >}}
+{{< tkline tone="Return" hint="Listening, easily —" say="Listening, easily. I can plan a sentence. I cannot plan what someone else says." back="Which one gets you?" why="The reason is the whole answer and it takes four words. Gets you is a natural, casual way to ask about a weak point." >}}
+{{< tkline tone="Add" hint="It changed —" say="It changed over time. Speaking was terrifying for the first year and then it became listening, because people stopped simplifying things for me." back="Did yours move like that?" why="Describing how the difficulty moved is a real observation that only a learner would make, and it is genuinely interesting." >}}
+{{< tkline tone="Flip" hint="Neither —" say="Neither. The hardest one is the four seconds after somebody makes a joke, when I have to decide whether I understood it." back="Is that a universal experience?" why="A very specific, very true moment. It is funny to anyone and painfully recognizable to any learner." >}}
+{{< /tk >}}
+
+{{< tk q="Do you think in English yet?" ctx="A curious question people ask learners constantly." >}}
+{{< tkline tone="Return" hint="Sometimes —" say="Sometimes. Depends what I am thinking about." back="Do you speak another one?" why="Depends what I am thinking about is the honest answer and it is more interesting than a yes. The flip levels the ground." >}}
+{{< tkline tone="Add" hint="For some things —" say="For some things. Work happens in English and arguing happens in my own language, which I think tells you something about both." back="Which one would you swear in?" why="Splitting thought by domain is accurate and revealing, and the closing question is one people find delightful." >}}
+{{< tkline tone="Flip" hint="I dreamt in it once —" say="I dreamt in English once and woke up genuinely proud of myself, which is possibly the saddest thing I have ever admitted." back="What would count as fluent for you?" why="A small, funny confession that turns into a real question. Most people have never been asked to define fluent." >}}
+{{< /tk >}}
+
+{{< tk q="Say something in your language!" ctx="Well meant, slightly awkward, very common at parties." >}}
+{{< tkline tone="Return" hint="What would you like? —" say="Sure. What would you like me to say?" back="You have to give me something to work with." why="Putting the choice back on them is the graceful move, because the request has no obvious answer without it." >}}
+{{< tkline tone="Add" hint="I will give you one —" say="I will give you one useful phrase instead of a party trick. If you ever go, this is the sentence that will get you fed properly." back="Want to try saying it?" why="Redirecting to something useful rescues an awkward request and turns it into a small shared activity." >}}
+{{< tkline tone="Flip" hint="I never know what —" say="I never know what to pick, so I always end up saying something extremely boring like the weather is nice." back="What would you say if someone asked you?" why="Admitting the blank is honest, and turning the question around shows them how difficult it actually is to answer." >}}
+{{< /tk >}}
+
 {{< callout type="warning" >}}
 One habit worth dropping: *Sorry, my English is not good.* It is almost never true by the time you are saying it, and it asks the other person to reassure you instead of continuing the conversation. If you need a moment, say **Let me put that another way** — same pause, none of the apology.
 {{< /callout >}}

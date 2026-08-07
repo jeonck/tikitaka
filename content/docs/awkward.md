@@ -35,6 +35,36 @@ The hardest sentences in a second language are not the complicated ones — they
 {{< tkline tone="Flip" hint="I had forgotten —" say="I had genuinely forgotten until you brought it up, so now I am wondering what I missed." back="What was it, out of interest?" why="A light joke that makes clear no damage was done. It works only when you truly do not mind — do not use it otherwise." >}}
 {{< /tk >}}
 
+{{< tk q="Can I ask you something a bit personal?" ctx="The warning shot before a real question." >}}
+{{< tkline tone="Return" hint="Go ahead —" say="Go ahead. I will tell you if I would rather not answer." back="" why="Granting permission while reserving the right to decline is the complete answer. It protects you without refusing them." >}}
+{{< tkline tone="Add" hint="You can ask —" say="You can ask. I might give you a short answer depending on what it is, but I would rather you asked than wondered." back="What is it?" why="Rather you asked than wondered is a generous framing that makes the other person feel less awkward for asking." >}}
+{{< tkline tone="Flip" hint="Now I am worried —" say="Now I am extremely worried about what is coming, so you had better just say it." back="Go on, out with it." why="Naming your own alarm is funny and lowers the temperature. Out with it is the standard nudge for someone hesitating." >}}
+{{< /tk >}}
+
+{{< tk q="You don't remember me, do you?" ctx="Caught. They can see it on your face." >}}
+{{< tkline tone="Return" hint="I am so sorry —" say="I am so sorry. Your face, yes. Everything else, no." back="Help me out." why="Admitting it immediately is far better than a performance of remembering. Help me out is the light, standard request." >}}
+{{< tkline tone="Add" hint="I do, partly —" say="I do, partly. I know we have talked properly at some point and I know I enjoyed it, and beyond that I have got nothing at all." back="Where was it?" why="Salvaging the genuine part is kinder than a blanket apology, and it is usually true — the feeling outlives the details." >}}
+{{< tkline tone="Flip" hint="I am going to be caught —" say="I was hoping to get through this entire conversation without you finding out, and I have failed within about ninety seconds." back="Start from the beginning?" why="Confessing the strategy is very warm and almost always gets a laugh, because everyone has attempted the same thing." >}}
+{{< /tk >}}
+
+{{< tk q="Sorry, was that a joke?" ctx="Something landed strangely and you cannot tell which way it was meant." >}}
+{{< tkline tone="Return" hint="It was, badly —" say="It was, and it did not land. Ignore me." back="" why="Taking responsibility for a joke that failed ends the awkwardness in one move. Ignore me is the standard release." >}}
+{{< tkline tone="Add" hint="Half a joke —" say="Half a joke. The kind where I say something true and then hide behind the delivery in case it goes badly." back="Which half came across?" why="Admitting the defensive structure of the joke is honest and disarming, and the question opens the real conversation." >}}
+{{< tkline tone="Flip" hint="Let us agree it was —" say="Let us agree that it was, and that it was extremely funny, and never speak of it again." back="Deal?" why="Retroactively negotiating the joke is a very natural recovery. Deal closes the loop in a single word." >}}
+{{< /tk >}}
+
+{{< tk q="Can you keep a secret?" ctx="Someone about to tell you something they should not." >}}
+{{< tkline tone="Return" hint="Of course —" say="Of course. It stays here." back="" why="Stays here is the fixed reassurance. A short, serious answer is what this question is actually asking for." >}}
+{{< tkline tone="Add" hint="I can —" say="I can, and I will. Just tell me now if there is anyone I am not allowed to be normal around, because that is where I usually go wrong." back="Who else knows?" why="Asking the practical question is far more useful than a promise, and it shows you take the confidence seriously." >}}
+{{< tkline tone="Flip" hint="Depends who from —" say="Depends entirely who from. I am a vault with strangers and a liability with my sister." back="Is she on the list?" why="Being honest about the one person you cannot keep things from is funnier and more trustworthy than claiming perfection." >}}
+{{< /tk >}}
+
+{{< tk q="No offense, but…" ctx="Four words that guarantee the next sentence is offensive." >}}
+{{< tkline tone="Return" hint="Go on —" say="Go on, I can take it." back="" why="Accepting the setup calmly removes its power. Reacting to the preamble rather than the content puts you on the back foot." >}}
+{{< tkline tone="Add" hint="That opening —" say="That opening usually means the next part is going to be a bit sharp, so say it plainly and I will take it better." back="What is it?" why="Naming the function of the phrase is a graceful way to ask for directness. Plainly is the key word." >}}
+{{< tkline tone="Flip" hint="Some offense taken —" say="Some offense provisionally taken, pending the rest of the sentence." back="Carry on." why="A mock-formal reply is a very English way to signal you are unbothered while still noting the framing." >}}
+{{< /tk >}}
+
 {{< callout type="warning" >}}
 **Flip** is the risky route on this page. Humor rescues an awkward moment only when the other person is not actually upset. If there is any real feeling in the room — a genuine apology, a genuine worry — use **Return** or **Add** and save the joke for later.
 {{< /callout >}}

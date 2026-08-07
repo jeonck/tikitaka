@@ -35,6 +35,36 @@ Family questions look personal but are usually structural — the asker is build
 {{< tkline tone="Flip" hint="That is the reason —" say="That is the reason I know how to fix a bike, ride a horse, and lose an argument gracefully." back="Who taught you the useful things?" why="Describing someone by what they gave you is warmer than a label. The question that follows is one people genuinely like being asked." >}}
 {{< /tk >}}
 
+{{< tk q="Do you live near your family?" ctx="Someone working out how often you see them." >}}
+{{< tkline tone="Return" hint="A few hours away —" say="A few hours away. Close enough for a weekend, too far for a Sunday lunch." back="Are yours nearby?" why="Defining distance by what it lets you do is far more useful than a number of kilometres." >}}
+{{< tkline tone="Add" hint="Not any more —" say="Not any more. I moved for work and it turned out that seeing them four times a year instead of every week changed the relationship more than I expected — in a good way, mostly." back="Did distance change yours?" why="Naming an unexpected effect is more interesting than the logistics. In a good way, mostly is honest without being heavy." >}}
+{{< tkline tone="Flip" hint="Exactly the right distance —" say="Exactly the right distance, which I have calculated precisely. Near enough to visit, far enough that nobody drops in." back="Have you found your number?" why="Treating family proximity as an optimization problem is funny because everyone privately does it." >}}
+{{< /tk >}}
+
+{{< tk q="Are you going home for the holidays?" ctx="Late in the year, everyone is making plans." >}}
+{{< tkline tone="Return" hint="For a few days —" say="For a few days, yes. Back before the new year." back="Are you travelling?" why="A duration plus a return date is the complete answer. Travelling is the natural word for holiday movement." >}}
+{{< tkline tone="Add" hint="The whole week —" say="The whole week this time, which I have not done in years. I have been warned there will be a schedule and I am not allowed to see it in advance." back="Is yours the organized kind?" why="A small piece of family comedy gives them something to react to, and organized is a safe axis for any family." >}}
+{{< tkline tone="Flip" hint="I am staying put —" say="Staying put this year, deliberately. I have booked nothing, planned nothing, and I intend to be extremely boring about it." back="Do you ever do a quiet one?" why="Defending a quiet holiday is a real position, and it gives someone else permission to admit they want the same." >}}
+{{< /tk >}}
+
+{{< tk q="Who do you take after?" ctx="Someone who has just met a member of your family." >}}
+{{< tkline tone="Return" hint="My father, apparently —" say="My father, apparently. Everyone says so except me." back="Who do you get it from?" why="Take after is the fixed phrase for family resemblance. Everyone says so except me is the standard rueful add-on." >}}
+{{< tkline tone="Add" hint="A bit of both —" say="A bit of both, in a very unhelpful split. I got my mother's patience and my father's inability to leave a problem alone at midnight." back="What did you inherit that you did not ask for?" why="Naming inherited traits rather than looks is more interesting, and the follow-up is a question people love." >}}
+{{< tkline tone="Flip" hint="Nobody, I insisted —" say="Nobody, I maintained that for about twenty years, and then I heard myself on the phone last month and had to reconsider everything." back="Has that happened to you yet?" why="The moment you catch yourself becoming a parent is close to universal and reliably gets a story back." >}}
+{{< /tk >}}
+
+{{< tk q="Do you get on with them?" ctx="About a sibling, a relative, or an in-law." >}}
+{{< tkline tone="Return" hint="Really well —" say="Really well, yeah. Always have." back="How about you and yours?" why="Get on with is the standard phrase for having a good relationship. Always have adds warmth in two words." >}}
+{{< tkline tone="Add" hint="Better now —" say="Better now than we did growing up. We are completely different people and it took until about twenty-five for that to stop being a problem." back="Did yours settle at some point?" why="A relationship that improved over time is more interesting than one that was always fine, and it is very common." >}}
+{{< tkline tone="Flip" hint="In small doses —" say="In small doses we are extremely close. It is a relationship best conducted over about four days at a time." back="Have you got one of those?" why="In small doses is a diplomatic idiom that says a lot without criticizing anyone. It is safe to repeat back to them." >}}
+{{< /tk >}}
+
+{{< tk q="Are you seeing anyone?" ctx="A friend, or a relative who has been waiting to ask." >}}
+{{< tkline tone="Return" hint="Not at the moment —" say="Not at the moment. Happily, before you ask." back="How about you?" why="Before you ask preempts the sympathetic follow-up. It closes the topic warmly rather than defensively." >}}
+{{< tkline tone="Add" hint="Sort of —" say="Sort of. Early enough that I do not want to describe it out loud and jinx the whole thing." back="Can I come back to you in a month?" why="Sort of plus a request for time is a completely legitimate answer that protects something new without shutting them out." >}}
+{{< tkline tone="Flip" hint="You have been waiting —" say="You have been waiting the entire meal to ask that, and I want you to know I noticed at about the halfway point." back="Go on, ask the rest of them." why="Calling out the build-up is affectionate between people who know each other, and it takes the sting out of a nosy question." >}}
+{{< /tk >}}
+
 {{< callout type="info" >}}
 If a family question lands somewhere painful, the safest exit is a short factual sentence followed by a question of your own — *It is complicated, honestly. What about yours?* Nobody in English will push past that, and you have kept the conversation alive instead of ending it.
 {{< /callout >}}

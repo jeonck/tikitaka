@@ -37,6 +37,36 @@ The reliable shape is: name the feeling, give it a size, then move the ball. *A 
 {{< tkline tone="Flip" hint="I appreciate that —" say="I appreciate you saying that. Honestly, most people just change the subject." back="Have you had one of those stretches?" why="Naming the kindness makes the moment land, and the pass back turns sympathy into a genuine exchange." >}}
 {{< /tk >}}
 
+{{< tk q="What's on your mind?" ctx="Someone has noticed you have gone quiet." >}}
+{{< tkline tone="Return" hint="Nothing much —" say="Nothing much. Just somewhere else for a minute." back="Sorry, go on." why="Somewhere else is a gentle way to say you were distracted. Inviting them to continue closes the moment without a discussion." >}}
+{{< tkline tone="Add" hint="One thing, actually —" say="One thing, actually. I have been going back and forth on a decision all week and I keep landing in a different place." back="Do you want to be a second opinion?" why="Naming the shape of the worry without the content lets you choose how far to go. Asking them in makes it collaborative." >}}
+{{< tkline tone="Flip" hint="Nothing useful —" say="Nothing useful. I was thinking about something I said in about two thousand and nine, which is where my brain goes when it is unsupervised." back="Does yours do that?" why="The late-night memory ambush is close to universal. Turning it into a joke makes it safe to admit." >}}
+{{< /tk >}}
+
+{{< tk q="Are you annoyed with me?" ctx="They have picked up on something and are asking directly." >}}
+{{< tkline tone="Return" hint="No, honestly —" say="No, honestly. It is not about you at all." back="Sorry if it came across that way." why="A flat denial plus an apology for the impression is the fastest way to clear this. Came across is the right idiom." >}}
+{{< tkline tone="Add" hint="A bit, earlier —" say="A bit, earlier. Not now. I did not love being the last to hear about the change, but I have had a walk and I am over it." back="Can we just say it next time?" why="Naming the specific moment and confirming it has passed prevents it resurfacing. The request is small enough to be easy to agree to." >}}
+{{< tkline tone="Flip" hint="If I were —" say="If I were, you would know. I am famously bad at hiding it." back="Am I doing the face again?" why="Reassurance through self-deprecation is warmer than a plain no, and it invites them to laugh rather than worry." >}}
+{{< /tk >}}
+
+{{< tk q="Don't you think that's a bit much?" ctx="They want you to agree with a strong opinion you do not share." >}}
+{{< tkline tone="Return" hint="I can see it —" say="I can see why you would think so." back="What is bothering you about it?" why="Acknowledging without agreeing is the safest move in a disagreement. The follow-up moves to the feeling underneath." >}}
+{{< tkline tone="Add" hint="Partly —" say="Partly. I think the timing was bad rather than the decision itself, so I have ended up somewhere in the middle on it." back="Is it the decision or the way it happened?" why="Splitting a complaint into parts lets you agree with half of it honestly, which usually calms things down." >}}
+{{< tkline tone="Flip" hint="I am going to disagree —" say="I am going to disagree with you and I would like it noted that I am doing it politely." back="Talk me out of it?" why="Flagging the disagreement as friendly before making it removes the sting. Talk me out of it invites a real conversation." >}}
+{{< /tk >}}
+
+{{< tk q="How are you, really?" ctx="The second ask. They did not accept the first answer." >}}
+{{< tkline tone="Return" hint="Genuinely fine —" say="Genuinely fine. Tired, but nothing underneath it." back="Thanks for checking, though." why="Nothing underneath it is the precise reassurance this question is asking for. Thanking them acknowledges the care." >}}
+{{< tkline tone="Add" hint="Not brilliant —" say="Not brilliant, honestly. Nothing has gone wrong, I am just running on empty and it has been that way for a few weeks." back="Have you been through a stretch like that?" why="Running on empty describes a state without requiring a cause. Asking about their experience keeps it an exchange, not a report." >}}
+{{< tkline tone="Flip" hint="You went for the second ask —" say="You went for the second ask, so now I have to answer properly. Give me a moment to work out what the real answer is." back="Can I come back to you on it?" why="Naming what they did is affectionate, and asking for time is a completely legitimate response to a serious question." >}}
+{{< /tk >}}
+
+{{< tk q="Are you excited?" ctx="Something good is coming and they want you to enjoy it with them." >}}
+{{< tkline tone="Return" hint="Very —" say="Very. It has not quite sunk in yet." back="Are you?" why="Not sunk in yet is the standard phrase for good news you have not processed. It reads as genuine rather than restrained." >}}
+{{< tkline tone="Add" hint="Excited and terrified —" say="Excited and slightly terrified, in roughly equal measure. I keep flipping between the two about once an hour." back="Were you like that before yours?" why="Naming two feelings at once is more honest than picking one, and it gives them two things to respond to." >}}
+{{< tkline tone="Flip" hint="I am refusing to be —" say="I am refusing to be excited until it is completely confirmed, because I have jinxed things before and I have learned nothing." back="Are you superstitious about this stuff?" why="Superstition about good news is very common and completely harmless to admit. It reliably produces a story back." >}}
+{{< /tk >}}
+
 {{< callout type="warning" >}}
 Route **Flip** is the wrong choice when someone is genuinely worried about you. Humour reads as deflection there. Use **Return** or **Add**, and let the conversation slow down.
 {{< /callout >}}

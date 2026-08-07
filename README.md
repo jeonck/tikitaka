@@ -32,7 +32,7 @@ open the card and compare.
 
 ## Content
 
-16 situations × 5 questions × 3 routes = 240 answers.
+16 situations × 10 questions × 3 routes = 480 answers.
 
 **Everyday exchanges** — Small Talk · Weekend & Free Time · Food · Making Plans · Wrapping Up
 

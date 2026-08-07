@@ -35,6 +35,36 @@ Where you live is the safest personal topic in English. It is specific enough to
 {{< tkline tone="Flip" hint="I will take credit —" say="I will take credit for it, but honestly half of this is just things I never got around to moving." back="Is your place the arranged kind or the accumulated kind?" why="Deflecting a compliment with humor is standard, and the arranged-versus-accumulated framing is an easy, funny thing to have an opinion about." >}}
 {{< /tk >}}
 
+{{< tk q="Do you rent or own?" ctx="A fairly direct question, common between people of a similar age." >}}
+{{< tkline tone="Return" hint="Renting —" say="Renting, for now." back="How about you?" why="For now is the two-word hedge that keeps the topic open without requiring a plan or an explanation." >}}
+{{< tkline tone="Add" hint="Renting, and —" say="Renting, and I have made my peace with it. Every time I do the maths on buying here, the maths quietly laughs at me." back="Are you thinking about it?" why="Naming the calculation without any figures keeps money talk comfortable, and it invites their honest position." >}}
+{{< tkline tone="Flip" hint="I own a bicycle —" say="I own a bicycle and about four hundred books. The flat belongs to somebody else and always has." back="Are you on the property ladder or the property observation deck?" why="Deflecting with an inventory is funny, and property ladder is the fixed English phrase this joke depends on." >}}
+{{< /tk >}}
+
+{{< tk q="How's the commute?" ctx="A colleague who has just found out where you live." >}}
+{{< tkline tone="Return" hint="Not bad —" say="Not bad. About half an hour, door to door." back="What is yours like?" why="Door to door is the phrase that makes a commute figure meaningful. Half an hour is enough detail without a route description." >}}
+{{< tkline tone="Add" hint="Longer than I would like —" say="Longer than I would like, but I get a seat, and I have decided that a seat is worth twenty minutes of anyone's life." back="Do you get one on yours?" why="Trading time for comfort is a real commuter calculation. Everyone who travels to work has an opinion about seats." >}}
+{{< tkline tone="Flip" hint="It is my only reading time —" say="It is the only reading I do all week, so I have started being quietly disappointed when the train is quick." back="Do you use it for anything?" why="Reframing dead time as useful is an unusual angle that makes people reconsider their own journey." >}}
+{{< /tk >}}
+
+{{< tk q="Do you know your neighbors?" ctx="Someone comparing notes on where they live." >}}
+{{< tkline tone="Return" hint="To wave at —" say="To wave at, mostly. Nothing beyond that." back="Do you?" why="To wave at is the precise level almost everyone is at. It is honest without sounding unfriendly." >}}
+{{< tkline tone="Add" hint="One of them —" say="One of them properly. She took a parcel in for me the first week I moved in and we have been on real terms ever since." back="Has anyone done that for you?" why="One small favor as the origin of a relationship is a very true and specific story. Real terms is a nice, natural phrase." >}}
+{{< tkline tone="Flip" hint="I know their habits —" say="I know their music, their schedule, and roughly when they argue. I do not know a single one of their names." back="Is that normal, do you think?" why="Knowing everything except the name is funny because it is common. Asking whether it is normal invites a confession." >}}
+{{< /tk >}}
+
+{{< tk q="Can I get you a drink?" ctx="You have just arrived at someone's home." >}}
+{{< tkline tone="Return" hint="Whatever you are having —" say="Whatever you are having, thanks." back="" why="The lowest-effort answer for a host, and therefore the kindest. It removes the decision entirely." >}}
+{{< tkline tone="Add" hint="Tea would be lovely —" say="Tea would be lovely if you are making one. Otherwise water is genuinely fine, I have been drinking coffee all day." back="Can I help with anything?" why="Offering a fallback stops a host going to trouble, and asking to help is the standard guest move." >}}
+{{< tkline tone="Flip" hint="Sit down —" say="Sit down, I have only just got here and you are already working. Point me at the kettle instead." back="Where do you keep the mugs?" why="Insisting on making it yourself signals closeness. Point me at the kettle is a friendly, informal construction." >}}
+{{< /tk >}}
+
+{{< tk q="Could you ever live somewhere completely different?" ctx="A hypothetical over dinner." >}}
+{{< tkline tone="Return" hint="I think so —" say="I think so. I have done it once already, so I know it is survivable." back="Could you?" why="Survivable is a dry, honest word for moving. It answers without romanticizing the idea." >}}
+{{< tkline tone="Add" hint="Somewhere smaller —" say="Somewhere much smaller, maybe. I like the idea of a place where you run into the same six people constantly, right up until I imagine actually doing it." back="Small town or big city for you?" why="Being honest about the gap between the fantasy and the reality is more interesting than a straight yes." >}}
+{{< tkline tone="Flip" hint="I have a list —" say="I have a list, and I have had the same list for six years, and I have visited none of it. So the honest answer is no." back="Have you got a list like that?" why="The permanently unactioned list is a very human thing to admit, and it usually pulls one out of the other person." >}}
+{{< /tk >}}
+
 {{< callout type="info" >}}
 Notice how often these answers name a **tradeoff** — quiet but dead, cheap but far, good area but bad flat. A tradeoff is the easiest handle to hand someone, because agreeing and disagreeing are both simple from there.
 {{< /callout >}}
