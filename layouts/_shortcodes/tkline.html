@@ -1,0 +1,22 @@
+{{- $tone := .Get "tone" -}}
+{{- $hint := .Get "hint" -}}
+{{- $say := .Get "say" -}}
+{{- $back := .Get "back" -}}
+{{- $why := .Get "why" -}}
+{{- $slug := $tone | lower | urlize -}}
+<details class="tk-line">
+  <summary class="tk-summary">
+    <span class="tk-tone tk-tone--{{ $slug }}">{{ $tone }}</span>
+    <span class="tk-hint">{{ $hint }}</span>
+    <span class="tk-cue" aria-hidden="true"></span>
+  </summary>
+  <div class="tk-reveal">
+    <p class="tk-say">{{ $say }}</p>
+    {{- with $back }}
+    <p class="tk-back"><span class="tk-back-label">pass it back</span>{{ . }}</p>
+    {{- end }}
+    {{- with $why }}
+    <p class="tk-why">{{ . }}</p>
+    {{- end }}
+  </div>
+</details>

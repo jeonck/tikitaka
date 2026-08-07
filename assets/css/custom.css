@@ -1,0 +1,219 @@
+/* ── TikiTaka practice cards ─────────────────────────────────────────── */
+
+.tk-card {
+  --tk-border: #e5e7eb;
+  --tk-surface: #ffffff;
+  --tk-surface-2: #f9fafb;
+  --tk-text: #111827;
+  --tk-muted: #6b7280;
+  --tk-accent: #c2410c;
+  --tk-accent-soft: #fff7ed;
+
+  margin: 1.75rem 0;
+  border: 1px solid var(--tk-border);
+  border-radius: 0.75rem;
+  background: var(--tk-surface);
+  overflow: hidden;
+}
+
+.dark .tk-card {
+  --tk-border: #303038;
+  --tk-surface: #1b1b1f;
+  --tk-surface-2: #232329;
+  --tk-text: #e8e8ea;
+  --tk-muted: #9ca3af;
+  --tk-accent: #fb923c;
+  --tk-accent-soft: #2a1d13;
+}
+
+/* Question header — always visible */
+.tk-q {
+  padding: 1rem 1.15rem 0.9rem;
+  background: var(--tk-surface-2);
+  border-bottom: 1px solid var(--tk-border);
+}
+
+.tk-q-badge {
+  display: inline-block;
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--tk-accent);
+  margin-bottom: 0.4rem;
+}
+
+.tk-q-text {
+  margin: 0;
+  font-size: 1.12rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: var(--tk-text);
+}
+
+.tk-q-ctx {
+  margin: 0.35rem 0 0;
+  font-size: 0.85rem;
+  color: var(--tk-muted);
+}
+
+/* One answer route */
+.tk-line {
+  border-top: 1px solid var(--tk-border);
+}
+
+.tk-line:first-child {
+  border-top: none;
+}
+
+.tk-summary {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  padding: 0.8rem 1.15rem;
+  cursor: pointer;
+  list-style: none;
+  user-select: none;
+  transition: background 0.12s ease;
+}
+
+.tk-summary::-webkit-details-marker {
+  display: none;
+}
+
+.tk-summary:hover {
+  background: var(--tk-surface-2);
+}
+
+/* Route label: Return / Add / Flip */
+.tk-tone {
+  flex: none;
+  min-width: 3.9rem;
+  text-align: center;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  padding: 0.22rem 0.5rem;
+  border-radius: 999px;
+  border: 1px solid var(--tk-border);
+  color: var(--tk-muted);
+  background: var(--tk-surface);
+}
+
+.tk-tone--return {
+  color: var(--tk-accent);
+  background: var(--tk-accent-soft);
+  border-color: transparent;
+}
+
+.tk-tone--add {
+  color: #0e7490;
+  background: #ecfeff;
+  border-color: transparent;
+}
+
+.dark .tk-tone--add {
+  color: #67e8f9;
+  background: #0d2b31;
+}
+
+.tk-tone--flip {
+  color: #7c3aed;
+  background: #f5f3ff;
+  border-color: transparent;
+}
+
+.dark .tk-tone--flip {
+  color: #c4b5fd;
+  background: #241b3a;
+}
+
+/* The visible trigger phrase — this is what you speak from */
+.tk-hint {
+  flex: 1 1 auto;
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--tk-text);
+  font-style: italic;
+}
+
+/* Chevron */
+.tk-cue {
+  flex: none;
+  width: 0.5rem;
+  height: 0.5rem;
+  border-right: 2px solid var(--tk-muted);
+  border-bottom: 2px solid var(--tk-muted);
+  transform: rotate(45deg);
+  transition: transform 0.15s ease;
+  margin-right: 0.15rem;
+}
+
+.tk-line[open] .tk-cue {
+  transform: rotate(-135deg);
+}
+
+/* Hidden until opened */
+.tk-reveal {
+  padding: 0.15rem 1.15rem 1.05rem;
+  background: var(--tk-surface);
+}
+
+.tk-say {
+  margin: 0;
+  font-size: 1.02rem;
+  line-height: 1.65;
+  color: var(--tk-text);
+  padding-left: 4.6rem;
+}
+
+.tk-back {
+  margin: 0.6rem 0 0;
+  padding-left: 4.6rem;
+  font-size: 0.98rem;
+  line-height: 1.6;
+  color: var(--tk-text);
+}
+
+.tk-back-label {
+  display: inline-block;
+  font-size: 0.64rem;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: var(--tk-accent);
+  margin-right: 0.5rem;
+  vertical-align: 0.08em;
+}
+
+.tk-why {
+  margin: 0.7rem 0 0;
+  padding-left: 4.6rem;
+  font-size: 0.85rem;
+  line-height: 1.6;
+  color: var(--tk-muted);
+}
+
+@media (max-width: 640px) {
+  .tk-summary {
+    flex-wrap: wrap;
+    gap: 0.45rem;
+  }
+
+  .tk-hint {
+    flex: 1 1 100%;
+    order: 3;
+    font-size: 0.96rem;
+  }
+
+  .tk-cue {
+    margin-left: auto;
+  }
+
+  .tk-say,
+  .tk-back,
+  .tk-why {
+    padding-left: 0;
+  }
+}

@@ -1,0 +1,73 @@
+baseURL = "https://jeonck.github.io/tikitaka/"
+title = "TikiTaka"
+theme = "hextra"
+defaultContentLanguage = "en"
+languageCode = "en"
+enableRobotsTXT = true
+enableGitInfo = false
+hasCJKLanguage = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = ["html"]
+  page = ["html"]
+  section = ["html", "rss"]
+
+[params]
+  description = "Keep the conversation moving. Three ways to answer any everyday English question."
+
+  [params.navbar]
+    displayTitle = true
+    displayLogo = false
+    width = "full"
+
+  [params.page]
+    width = "normal"
+
+  [params.theme]
+    default = "system"
+    displayToggle = true
+
+  [params.footer]
+    enable = true
+    displayCopyright = false
+    displayPoweredBy = false
+    width = "normal"
+
+  [params.search]
+    enable = true
+    type = "flexsearch"
+    [params.search.flexsearch]
+      index = "content"
+      tokenize = "forward"
+      # Vendored locally so builds never depend on the jsDelivr CDN.
+      js = "js/vendor/flexsearch.bundle.min.js"
+
+  [params.toc]
+    enable = true
+    displayTags = true
+
+  [params.editURL]
+    enable = false
+
+[[menu.main]]
+  name = "Search"
+  weight = 0
+  [menu.main.params]
+    type = "search"
+
+[[menu.main]]
+  name = "Situations"
+  pageRef = "/docs"
+  weight = 1
+
+[[menu.main]]
+  name = "GitHub"
+  url = "https://github.com/jeonck/tikitaka"
+  weight = 99
+  [menu.main.params]
+    icon = "github"

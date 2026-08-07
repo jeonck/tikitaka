@@ -1,0 +1,13 @@
+{{- $q := .Get "q" -}}
+{{- $ctx := .Get "ctx" -}}
+{{- $cue := .Get "cue" | default "they ask" -}}
+<div class="tk-card">
+  <div class="tk-q">
+    <span class="tk-q-badge">{{ $cue }}</span>
+    <p class="tk-q-text">{{ $q }}</p>
+    {{- with $ctx }}<p class="tk-q-ctx">{{ . }}</p>{{ end -}}
+  </div>
+  <div class="tk-lines">
+    {{- .Inner -}}
+  </div>
+</div>
